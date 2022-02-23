@@ -10,7 +10,7 @@
         boolean isNotValid = false;  // confusing
 ``` 
 
-* Use singular names
+* Use singular names.
 ```
     itemList; // good
     items; // hard to differentiate with 'item'
