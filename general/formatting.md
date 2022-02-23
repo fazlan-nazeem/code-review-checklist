@@ -28,4 +28,4 @@
       }
 ```
 
-* Do not add *unnecessary* empty newlines at the end of each line of code. Find a perfect balance on when to use them. 
+* Do not add *unnecessary* empty newlines at the end of each line of code. Find a balance on when to use them. 
